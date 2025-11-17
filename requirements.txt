@@ -1,0 +1,3 @@
+PySide6
+requests
+# Requires Python >=3.8
