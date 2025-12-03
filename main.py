@@ -10,7 +10,7 @@ from PySide6.QtCore import Qt
 
 # Load all config values from configs.json
 def load_config():
-    with open("configs.json", "r", encoding="utf-8") as f:
+    with open("./data/configs.json", "r", encoding="utf-8") as f:
         return json.load(f)
 
 def get_product_config_path():

@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name="deephawk_product_selector",
-    version="1.0.0",
+    version="1.0.1",
     description="A simple product selection GUI using PySide6",
     author="Abbass ZEN EDDINE",
     install_requires=[
